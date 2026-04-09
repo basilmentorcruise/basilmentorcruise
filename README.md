@@ -132,13 +132,11 @@ Led organization-wide LLM adoption across 50+ engineers — from daily developme
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=basilmentorcruise&show_icons=true&count_private=true&theme=github_dark&hide_border=true&include_all_commits=true&custom_title=Contributions+%28including+private%29" height="165"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basilmentorcruise&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="165"/>
+<img src="https://ghchart.rshah.org/basilmentorcruise" alt="Basil's GitHub contribution chart" width="100%"/>
 
 </div>
 
-> Most active work lives in **private repositories** — the stats above include private contributions but the repos are not publicly visible.
+> Most active work lives in **private repositories** — contributions above include private activity. Repos are access-controlled; reach out for a walkthrough.
 
 ---
 
